@@ -1,0 +1,3 @@
+# go-lazy
+
+Dunno lol
